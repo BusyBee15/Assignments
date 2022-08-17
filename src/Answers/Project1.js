@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import './Project1.css'
 const url = "https://restcountries.com/v3.1/subregion/asia"
 
 const DisplayData = () => {
